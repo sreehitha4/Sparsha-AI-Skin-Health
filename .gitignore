@@ -1,0 +1,11 @@
+# Ignore all data files
+/data/
+
+# Ignore Python virtual environment (you will create this next)
+/venv/
+
+# Ignore system files
+.DS_Store
+# Ignore model files
+*.pt
+*.pth
