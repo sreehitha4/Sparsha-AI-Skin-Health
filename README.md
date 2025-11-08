@@ -14,7 +14,7 @@ After 4 experiments, the final, most accurate model has been selected.
 
 The final model file (`.pt`) is too large for GitHub. You can download it from this secure Google Drive link:
 
-**[LINK: PASTE YOUR GOOGLE DRIVE LINK HERE]**
+**[https://drive.google.com/file/d/1Sz9_d5XBxvLsjVm1YPLqOeswYW65NoJj/view?usp=sharing]**
 
 ## 🧪 Training Process
 
