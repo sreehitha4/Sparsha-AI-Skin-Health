@@ -7,5 +7,3 @@
 # Ignore system files
 .DS_Store
 # Ignore model files
-*.pt
-*.pth
